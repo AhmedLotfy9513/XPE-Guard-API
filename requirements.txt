@@ -1,18 +1,12 @@
-# Web Frameworks
 streamlit
+requests
+pandas
+plotly
 fastapi
 uvicorn
-python-multipart
-
-# Data Science & ML
-pandas
-numpy
-scikit-learn
 joblib
+numpy
 shap
-xgboost
-
-# Security Analysis & Utils
 pefile
-requests
+python-multipart
 gunicorn
